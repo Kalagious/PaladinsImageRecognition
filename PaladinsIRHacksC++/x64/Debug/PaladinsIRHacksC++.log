@@ -1,0 +1,34 @@
+﻿  PaladinsIRHacksC++.cpp
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(14,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(134,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(135,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(159,33): warning C4244: 'argument': conversion from '_Tp' to 'const _Ty', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(160,33): warning C4244: 'argument': conversion from '_Tp' to 'const _Ty', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(161,29): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(162,29): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\PaladinsIRHacksC++\PaladinsIRHacksC++.cpp(181,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PaladinsIRHacksC++.vcxproj -> C:\Users\Jordan\source\repos\CS\PaladinsIRHacksC++\x64\Debug\PaladinsIRHacksC++.exe
